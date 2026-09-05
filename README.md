@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<p align="center"><strong>Note:</strong> We don't use AI to create our designs. Everything is handmade in Figma by real, breathing people. We only use AI to generate placeholder images when we don't have our own photos yet. This lets us show clients what the final layout will look like without using or copying other creators' copyrighted photography. The layouts, graphics, and overall design are all made by humans.</p>
+<p align="center"><strong>Note:</strong> We don't use AI to create our designs. Everything is handmade in Figma by real, breathing people. We only use AI to generate placeholder images as per client request as they don't have their own photos yet. This lets them see what the final layout will look like without using or copying other creators' copyrighted photography. The layouts, graphics, and overall design are all made by humans.</p>
 
 <p align="center">
   <img src="./assets/figma-design-1.png" alt="Playces Figma design screenshot 1" width="1000" />
