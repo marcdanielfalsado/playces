@@ -10,6 +10,8 @@
   </a>
 </p>
 
+<p align="center"><strong>Status: In Development</strong></p>
+
 <p align="center">
   <a href="https://www.playces.ae/locations">
     <img src="./assets/locations-screenshot.png" alt="Playces locations page with court map and venue listings" width="900" />
