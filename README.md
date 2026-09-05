@@ -31,3 +31,19 @@
 <p align="center">
   <img src="./assets/figma-design-3.png" alt="Playces Figma design screenshot 3" width="550" />
 </p>
+
+<p align="center">
+  <img src="./assets/mobile-app-design-1.png" alt="Playces mobile app Figma design screenshot 1" width="1000" />
+</p>
+
+<p align="center">
+  <img src="./assets/mobile-app-design-2.png" alt="Playces mobile app Figma design screenshot 2" width="1000" />
+</p>
+
+<p align="center">
+  <img src="./assets/mobile-app-design-3.png" alt="Playces mobile app Figma design screenshot 3" width="1000" />
+</p>
+
+<p align="center">
+  <img src="./assets/mobile-app-design-4.png" alt="Playces mobile app Figma design screenshot 4" width="1000" />
+</p>
