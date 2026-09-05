@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/38/20/04/38200478b91db2d19a12ecf4672391c9.gif" alt="Anime GIF" width="400" />
 </p>
 
-<p align="center">I’m developing their website and mobile app for iOS and Android, an upcoming sports booking platform in Dubai, where people can find and book courts</p>
+<p align="center">We're developing their website and mobile app for iOS and Android, an upcoming sports booking platform in Dubai, where people can find and book courts</p>
 
 <p align="center">
   <a href="https://playces.ae/">
