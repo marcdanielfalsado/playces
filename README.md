@@ -17,3 +17,17 @@
     <img src="./assets/locations-screenshot.png" alt="Playces locations page with court map and venue listings" width="900" />
   </a>
 </p>
+
+<p align="center"><strong>Note:</strong> We don't use AI to create our designs. Everything is handmade in Figma by real, breathing people. We only use AI to generate placeholder images when we don't have our own photos yet. This lets us show clients what the final layout will look like without using or copying other creators' copyrighted photography. The layouts, graphics, and overall design are all made by humans.</p>
+
+<p align="center">
+  <img src="./assets/figma-design-1.png" alt="Playces Figma design screenshot 1" width="1000" />
+</p>
+
+<p align="center">
+  <img src="./assets/figma-design-2.png" alt="Playces Figma design screenshot 2" width="1000" />
+</p>
+
+<p align="center">
+  <img src="./assets/figma-design-3.png" alt="Playces Figma design screenshot 3" width="550" />
+</p>
