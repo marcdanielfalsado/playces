@@ -47,3 +47,12 @@
 <p align="center">
   <img src="./assets/mobile-app-design-4.png" alt="Playces mobile app Figma design screenshot 4" width="1000" />
 </p>
+
+<!-- other-work-footer -->
+<p align="center">Check out my other work in my repositories and on my website.</p>
+
+<p align="center">
+  <a href="https://github.com/marcdanielfalsado?tab=repositories">
+    <img src="./assets/other-work-profile.png" alt="My GitHub profile and other projects" width="1000" />
+  </a>
+</p>
